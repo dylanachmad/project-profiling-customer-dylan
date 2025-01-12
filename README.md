@@ -7,4 +7,4 @@ This project aims to increase the number of customer bookings through more targe
 Through the clustering results, three groups of customers were found with the main proportion in cluster 1 having dominant criteria, such as non-fix income type (71.30%) and age 18-45 years (80.61%). These results provide more targeted recommendations for telemarketing product offerings.
 
 ## File  
-- `Project_Report.pdf`: Contains the full project report.
+- `Sistem Rekomendasi Penawaran Produk Melalui Profiling Customer.pdf`: Contains the full project report.
